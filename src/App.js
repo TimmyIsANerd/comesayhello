@@ -158,7 +158,7 @@ export default function App() {
 
 		<div className="dataContainer">
 			<div className="header">
-				<span aria-label="emoji" role="img">👋</span> Hello! I'm Timmy!
+				<span aria-label="emoji" role="img">👨‍💻</span> Hello! I'm Timmy!
 				</div>
 
 				<div className="bio">
